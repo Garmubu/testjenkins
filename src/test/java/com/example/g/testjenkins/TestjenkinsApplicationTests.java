@@ -9,7 +9,7 @@ class TestjenkinsApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertEquals(5,4);
+		assertEquals(5,2);
 	}
 
 }
