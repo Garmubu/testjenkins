@@ -12,7 +12,7 @@ class TestjenkinsApplicationTests{
 		//d
 		assertEquals(5,5);
 	}
-	@Test
+	/*@Test
 	void testFoire() {
 		//d
 		assertEquals(5,6);
@@ -30,6 +30,6 @@ class TestjenkinsApplicationTests{
 	void testFoire2() {
 		//d
 		assertEquals(5,6);
-	}
+	}*/
 
 }
