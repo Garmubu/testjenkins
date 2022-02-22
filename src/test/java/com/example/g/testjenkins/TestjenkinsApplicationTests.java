@@ -8,9 +8,14 @@ import static org.junit.jupiter.api.Assertions.*;
 class TestjenkinsApplicationTests{
 
 	@Test
-	void contextLoads() {
+	void testReussi() {
 		//d
 		assertEquals(5,5);
+	}
+	@Test
+	void testFoire() {
+		//d
+		assertEquals(5,6);
 	}
 
 }
