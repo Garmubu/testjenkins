@@ -18,7 +18,6 @@ class TestjenkinsApplicationTests{
 		assertEquals(5,6);
 	}
 	@Test
-	void testFoir5e() {
 		//d
 		assertEquals(5,6);
 	}
